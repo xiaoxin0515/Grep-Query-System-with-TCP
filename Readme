@@ -1,5 +1,5 @@
 
-# Grep-Query-System-with-TCP
+*** Grep-Query-System-with-TCP
 
 1. On every vm, run go build Server.go
 and then go run Server.go
